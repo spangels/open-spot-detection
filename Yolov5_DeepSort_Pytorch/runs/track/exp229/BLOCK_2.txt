@@ -1,0 +1,1 @@
+172 1 64 466 221 44 -1 -1 -1 -1 label : invalidSpot-entrance 0.32

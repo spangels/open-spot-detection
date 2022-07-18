@@ -1,0 +1,10 @@
+689 2 1165 387 45 96 -1 -1 -1 -1 label : fireHydrant 0.59
+690 2 1167 385 45 99 -1 -1 -1 -1 label : fireHydrant 0.59
+691 2 1172 392 48 95 -1 -1 -1 -1 label : fireHydrant 0.58
+692 2 1175 395 47 94 -1 -1 -1 -1 label : fireHydrant 0.57
+693 2 1184 396 45 94 -1 -1 -1 -1 label : fireHydrant 0.59
+694 2 1186 396 45 94 -1 -1 -1 -1 label : fireHydrant 0.59
+695 2 1193 399 46 92 -1 -1 -1 -1 label : fireHydrant 0.57
+696 2 1195 400 46 92 -1 -1 -1 -1 label : fireHydrant 0.56
+697 2 1204 400 43 93 -1 -1 -1 -1 label : fireHydrant 0.53
+698 2 1207 400 42 93 -1 -1 -1 -1 label : fireHydrant 0.53

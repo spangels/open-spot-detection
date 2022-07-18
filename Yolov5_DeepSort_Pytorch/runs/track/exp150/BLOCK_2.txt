@@ -1,0 +1,1 @@
+19 1 396 280 107 26 -1 -1 -1 -1 label : invalidSpot-entrance 0.36

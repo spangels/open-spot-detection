@@ -1,0 +1,1 @@
+17 2 403 282 100 25 -1 -1 -1 -1 label : invalidSpot-entrance 0.33

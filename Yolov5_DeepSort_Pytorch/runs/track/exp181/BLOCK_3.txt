@@ -1,0 +1,1 @@
+23 1 763 445 94 53 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.38

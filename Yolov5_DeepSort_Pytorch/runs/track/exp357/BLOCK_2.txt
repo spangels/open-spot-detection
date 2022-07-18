@@ -1,0 +1,2 @@
+239 4 144 286 8 27 -1 -1 -1 -1 label : fireHydrant 0.31
+240 4 143 286 9 28 -1 -1 -1 -1 label : fireHydrant 0.30

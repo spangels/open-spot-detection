@@ -1,0 +1,1 @@
+6 4 0 432 219 91 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.39

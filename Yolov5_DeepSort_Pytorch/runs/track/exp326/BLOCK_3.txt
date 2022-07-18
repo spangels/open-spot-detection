@@ -1,0 +1,12 @@
+57 1 88 451 232 37 -1 -1 -1 -1 label : spot-0.34
+58 1 82 452 227 41 -1 -1 -1 -1 label : spot-0.38
+59 1 67 453 238 45 -1 -1 -1 -1 label : spot-0.45
+60 1 55 453 255 50 -1 -1 -1 -1 label : spot-0.44
+61 1 42 456 271 51 -1 -1 -1 -1 label : spot-0.47
+62 1 30 458 281 55 -1 -1 -1 -1 label : spot-0.42
+63 1 14 460 283 57 -1 -1 -1 -1 label : spot-0.39
+65 1 4 463 283 61 -1 -1 -1 -1 label : spot-0.41
+66 1 0 465 285 64 -1 -1 -1 -1 label : spot-0.33
+69 1 7 467 251 74 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.31
+71 1 0 468 251 77 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.30
+73 1 0 469 242 80 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.33

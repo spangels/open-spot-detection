@@ -1,0 +1,12 @@
+683 10 263 257 17 43 -1 -1 -1 -1 label : fireHydrant 0.44
+684 10 261 255 17 44 -1 -1 -1 -1 label : fireHydrant 0.43
+685 10 258 248 16 42 -1 -1 -1 -1 label : fireHydrant 0.51
+686 10 257 245 16 42 -1 -1 -1 -1 label : fireHydrant 0.52
+689 10 253 254 16 42 -1 -1 -1 -1 label : fireHydrant 0.47
+690 10 252 258 16 41 -1 -1 -1 -1 label : fireHydrant 0.46
+691 10 250 259 16 42 -1 -1 -1 -1 label : fireHydrant 0.47
+692 10 249 259 17 43 -1 -1 -1 -1 label : fireHydrant 0.47
+693 10 245 262 17 44 -1 -1 -1 -1 label : fireHydrant 0.50
+694 10 244 263 17 44 -1 -1 -1 -1 label : fireHydrant 0.50
+695 10 241 265 19 46 -1 -1 -1 -1 label : fireHydrant 0.42
+696 10 240 266 19 46 -1 -1 -1 -1 label : fireHydrant 0.42

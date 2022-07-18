@@ -1,0 +1,1 @@
+4 2 805 263 165 49 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.44

@@ -1,0 +1,1 @@
+18 2 285 449 99 22 -1 -1 -1 -1 label : invalidSpot-entrance 0.31

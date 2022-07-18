@@ -1,0 +1,195 @@
+10 1 734 392 96 47 -1 -1 -1 -1 label : spot-0.26
+11 1 735 393 96 47 -1 -1 -1 -1 label : spot-0.26
+12 1 737 393 102 48 -1 -1 -1 -1 label : spot-0.11
+13 1 738 394 103 47 -1 -1 -1 -1 label : spot-0.11
+14 1 738 394 109 48 -1 -1 -1 -1 label : spot-0.22
+15 1 739 394 109 48 -1 -1 -1 -1 label : spot-0.22
+16 1 739 394 114 47 -1 -1 -1 -1 label : spot-0.13
+17 1 740 394 113 47 -1 -1 -1 -1 label : spot-0.12
+20 1 747 392 117 54 -1 -1 -1 -1 label : spot-0.10
+21 1 747 392 122 56 -1 -1 -1 -1 label : spot-0.10
+22 1 749 392 126 58 -1 -1 -1 -1 label : spot-0.12
+23 1 750 393 127 58 -1 -1 -1 -1 label : spot-0.12
+28 1 750 395 154 55 -1 -1 -1 -1 label : spot-0.15
+29 1 754 395 152 55 -1 -1 -1 -1 label : spot-0.17
+29 4 0 405 189 47 -1 -1 -1 -1 label : spot-2 0.12
+30 1 758 396 158 53 -1 -1 -1 -1 label : spot-0.23
+30 4 0 405 190 48 -1 -1 -1 -1 label : spot-2 0.10
+31 1 760 396 158 52 -1 -1 -1 -1 label : spot-0.22
+32 1 762 400 163 55 -1 -1 -1 -1 label : spot-0.19
+33 1 762 401 166 57 -1 -1 -1 -1 label : spot-0.18
+34 1 761 402 179 57 -1 -1 -1 -1 label : spot-0.24
+34 4 0 406 184 46 -1 -1 -1 -1 label : spot-2 0.13
+34 6 969 350 16 38 -1 -1 -1 -1 label : fireHydrant 0.12
+35 1 763 402 180 56 -1 -1 -1 -1 label : spot-0.24
+35 4 0 407 184 45 -1 -1 -1 -1 label : spot-2 0.13
+35 6 971 351 16 38 -1 -1 -1 -1 label : fireHydrant 0.12
+36 1 767 404 183 59 -1 -1 -1 -1 label : spot-0.39
+36 4 0 407 183 45 -1 -1 -1 -1 label : spot-2 0.22
+37 1 768 405 185 60 -1 -1 -1 -1 label : spot-0.40
+37 4 0 407 183 37 -1 -1 -1 -1 label : spot-2 0.23
+37 6 978 351 14 40 -1 -1 -1 -1 label : fireHydrant 0.11
+38 1 765 405 205 59 -1 -1 -1 -1 label : spot-0.13
+38 4 0 408 181 36 -1 -1 -1 -1 label : spot-2 0.11
+39 1 770 406 200 58 -1 -1 -1 -1 label : spot-0.14
+39 6 983 351 14 39 -1 -1 -1 -1 label : fireHydrant 0.11
+40 1 772 408 209 58 -1 -1 -1 -1 label : spot-0.29
+40 6 987 352 15 41 -1 -1 -1 -1 label : fireHydrant 0.25
+41 1 774 409 210 58 -1 -1 -1 -1 label : spot-0.29
+41 6 989 352 15 41 -1 -1 -1 -1 label : fireHydrant 0.25
+42 1 781 410 208 65 -1 -1 -1 -1 label : spot-0.39
+42 6 992 351 17 43 -1 -1 -1 -1 label : fireHydrant 0.30
+43 1 779 410 215 68 -1 -1 -1 -1 label : spot-0.39
+43 6 993 351 17 44 -1 -1 -1 -1 label : fireHydrant 0.31
+44 1 774 412 243 65 -1 -1 -1 -1 label : spot-0.34
+44 4 16 414 155 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+44 6 1000 355 15 41 -1 -1 -1 -1 label : fireHydrant 0.11
+45 1 782 413 234 64 -1 -1 -1 -1 label : spot-0.34
+45 4 16 415 155 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+45 6 1002 356 15 41 -1 -1 -1 -1 label : fireHydrant 0.11
+46 1 772 415 265 57 -1 -1 -1 -1 label : spot-0.37
+46 4 17 415 153 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+47 1 780 416 253 54 -1 -1 -1 -1 label : spot-0.37
+47 6 1006 355 16 43 -1 -1 -1 -1 label : fireHydrant 0.24
+48 1 793 417 246 62 -1 -1 -1 -1 label : spot-0.38
+48 6 1010 355 17 45 -1 -1 -1 -1 label : fireHydrant 0.24
+49 1 791 418 257 63 -1 -1 -1 -1 label : spot-0.36
+49 6 1011 355 17 46 -1 -1 -1 -1 label : fireHydrant 0.25
+50 1 792 419 275 67 -1 -1 -1 -1 label : spot-0.25
+50 4 2 417 145 37 -1 -1 -1 -1 label : invalidSpot-entrance 0.25
+50 6 1017 356 16 45 -1 -1 -1 -1 label : fireHydrant 0.12
+51 1 793 420 280 68 -1 -1 -1 -1 label : spot-0.24
+51 4 0 418 147 37 -1 -1 -1 -1 label : invalidSpot-entrance 0.22
+51 6 1019 356 15 45 -1 -1 -1 -1 label : fireHydrant 0.12
+52 1 790 422 304 66 -1 -1 -1 -1 label : spot-2 0.29
+52 4 0 421 143 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+52 6 1022 357 15 45 -1 -1 -1 -1 label : fireHydrant 0.15
+53 1 796 423 300 66 -1 -1 -1 -1 label : spot-2 0.29
+53 4 2 422 138 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+54 1 791 424 326 64 -1 -1 -1 -1 label : spot-2 0.31
+54 4 3 424 128 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+54 7 802 425 306 64 -1 -1 -1 -1 label : spot-1 0.12
+55 1 798 425 319 63 -1 -1 -1 -1 label : spot-2 0.31
+55 4 2 425 127 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+55 7 802 426 311 65 -1 -1 -1 -1 label : spot-1 0.11
+56 1 803 424 340 67 -1 -1 -1 -1 label : spot-2 0.23
+56 4 0 424 134 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.19
+57 1 805 423 348 69 -1 -1 -1 -1 label : spot-2 0.23
+57 4 1 423 133 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.19
+58 1 803 424 379 69 -1 -1 -1 -1 label : spot-2 0.40
+58 4 5 426 112 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+59 1 806 424 382 68 -1 -1 -1 -1 label : spot-2 0.41
+59 4 2 426 113 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+60 1 807 424 405 70 -1 -1 -1 -1 label : spot-2 0.26
+61 1 809 425 410 69 -1 -1 -1 -1 label : spot-2 0.25
+62 1 807 424 442 71 -1 -1 -1 -1 label : spot-2 0.13
+63 1 809 424 447 71 -1 -1 -1 -1 label : spot-2 0.13
+64 1 819 423 452 73 -1 -1 -1 -1 label : spot-2 0.13
+65 1 822 423 455 74 -1 -1 -1 -1 label : spot-2 0.14
+66 1 823 423 456 75 -1 -1 -1 -1 label : spot-2 0.12
+67 1 823 424 456 75 -1 -1 -1 -1 label : spot-2 0.10
+68 1 828 424 451 76 -1 -1 -1 -1 label : spot-2 0.10
+69 1 828 424 451 76 -1 -1 -1 -1 label : spot-2 0.12
+70 1 833 424 446 76 -1 -1 -1 -1 label : spot-2 0.19
+70 4 0 419 73 42 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+71 1 834 424 445 76 -1 -1 -1 -1 label : spot-2 0.16
+71 4 0 419 73 42 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+72 1 843 425 434 79 -1 -1 -1 -1 label : spot-2 0.19
+72 4 0 418 70 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+73 1 840 426 439 79 -1 -1 -1 -1 label : spot-2 0.17
+74 1 846 426 433 80 -1 -1 -1 -1 label : spot-2 0.28
+75 1 845 427 434 79 -1 -1 -1 -1 label : spot-2 0.27
+76 1 852 427 427 80 -1 -1 -1 -1 label : spot-2 0.20
+77 1 852 427 427 81 -1 -1 -1 -1 label : spot-2 0.21
+80 1 871 427 401 84 -1 -1 -1 -1 label : spot-0.15
+81 1 871 428 404 84 -1 -1 -1 -1 label : spot-0.14
+166 13 209 396 39 19 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+167 13 207 397 40 19 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+168 13 204 398 41 18 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+169 13 203 399 41 18 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+170 13 203 400 39 17 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+171 14 353 357 8 26 -1 -1 -1 -1 label : fireHydrant 0.28
+172 14 352 358 9 25 -1 -1 -1 -1 label : fireHydrant 0.21
+173 14 351 358 10 25 -1 -1 -1 -1 label : fireHydrant 0.21
+174 14 349 358 10 25 -1 -1 -1 -1 label : fireHydrant 0.20
+175 14 348 358 10 26 -1 -1 -1 -1 label : fireHydrant 0.20
+176 14 347 359 11 25 -1 -1 -1 -1 label : fireHydrant 0.19
+177 14 347 359 10 25 -1 -1 -1 -1 label : fireHydrant 0.19
+178 14 347 359 9 25 -1 -1 -1 -1 label : fireHydrant 0.13
+179 14 346 359 9 26 -1 -1 -1 -1 label : fireHydrant 0.14
+180 14 345 359 9 25 -1 -1 -1 -1 label : fireHydrant 0.35
+181 14 344 359 9 25 -1 -1 -1 -1 label : fireHydrant 0.35
+182 14 344 359 8 26 -1 -1 -1 -1 label : fireHydrant 0.20
+183 14 343 359 9 26 -1 -1 -1 -1 label : fireHydrant 0.21
+191 14 321 352 11 33 -1 -1 -1 -1 label : fireHydrant 0.10
+302 21 808 319 9 22 -1 -1 -1 -1 label : fireHydrant 0.20
+303 21 809 318 9 22 -1 -1 -1 -1 label : fireHydrant 0.20
+330 26 700 329 12 39 -1 -1 -1 -1 label : fireHydrant 0.35
+331 26 699 328 14 39 -1 -1 -1 -1 label : fireHydrant 0.36
+360 26 211 369 12 30 -1 -1 -1 -1 label : fireHydrant 0.10
+361 26 197 371 12 29 -1 -1 -1 -1 label : fireHydrant 0.11
+370 26 160 389 9 22 -1 -1 -1 -1 label : fireHydrant 0.13
+371 26 156 390 9 22 -1 -1 -1 -1 label : fireHydrant 0.13
+390 37 1 413 98 31 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.22
+391 37 0 414 97 30 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.22
+392 37 0 414 90 30 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.23
+392 38 1019 373 51 85 -1 -1 -1 -1 label : fireHydrant 0.19
+393 37 0 414 89 30 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.24
+393 38 1021 372 53 88 -1 -1 -1 -1 label : fireHydrant 0.24
+394 37 1 413 74 30 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+394 38 1032 372 50 95 -1 -1 -1 -1 label : fireHydrant 0.11
+395 37 0 413 73 30 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+395 38 1034 371 51 98 -1 -1 -1 -1 label : fireHydrant 0.11
+395 40 664 374 66 25 -1 -1 -1 -1 label : spot-1 0.11
+396 37 1 413 62 32 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.31
+396 38 1040 371 56 95 -1 -1 -1 -1 label : fireHydrant 0.18
+396 40 665 374 64 25 -1 -1 -1 -1 label : spot-1 0.12
+397 37 0 413 62 32 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.31
+397 38 1043 371 55 94 -1 -1 -1 -1 label : fireHydrant 0.18
+397 40 664 373 66 27 -1 -1 -1 -1 label : spot-1 0.12
+398 37 0 414 58 32 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50
+398 38 1055 371 53 94 -1 -1 -1 -1 label : fireHydrant 0.14
+399 38 1058 370 54 95 -1 -1 -1 -1 label : fireHydrant 0.51
+399 40 664 373 68 27 -1 -1 -1 -1 label : spot-1 0.14
+400 38 1067 372 56 98 -1 -1 -1 -1 label : fireHydrant 0.49
+400 40 665 373 66 27 -1 -1 -1 -1 label : spot-1 0.11
+401 38 1070 372 57 100 -1 -1 -1 -1 label : fireHydrant 0.49
+401 40 664 373 69 28 -1 -1 -1 -1 label : spot-1 0.11
+402 38 1080 372 57 102 -1 -1 -1 -1 label : fireHydrant 0.45
+402 40 664 373 69 27 -1 -1 -1 -1 label : spot-1 0.10
+403 38 1084 371 57 104 -1 -1 -1 -1 label : fireHydrant 0.46
+403 40 664 373 69 27 -1 -1 -1 -1 label : spot-1 0.10
+404 38 1094 373 54 103 -1 -1 -1 -1 label : fireHydrant 0.55
+404 40 663 373 79 27 -1 -1 -1 -1 label : spot-1 0.14
+405 38 1097 373 54 103 -1 -1 -1 -1 label : fireHydrant 0.54
+405 40 664 373 79 27 -1 -1 -1 -1 label : spot-1 0.14
+406 38 1107 371 60 106 -1 -1 -1 -1 label : fireHydrant 0.58
+406 40 665 372 83 28 -1 -1 -1 -1 label : spot-1 0.20
+407 38 1111 370 61 107 -1 -1 -1 -1 label : fireHydrant 0.58
+407 40 666 372 83 28 -1 -1 -1 -1 label : spot-1 0.20
+408 38 1122 374 63 105 -1 -1 -1 -1 label : fireHydrant 0.39
+408 40 666 372 82 28 -1 -1 -1 -1 label : spot-1 0.30
+409 38 1126 376 63 104 -1 -1 -1 -1 label : fireHydrant 0.40
+409 40 666 372 81 28 -1 -1 -1 -1 label : spot-1 0.31
+410 38 1137 377 62 104 -1 -1 -1 -1 label : fireHydrant 0.21
+410 40 668 372 79 28 -1 -1 -1 -1 label : spot-1 0.17
+411 38 1141 377 61 105 -1 -1 -1 -1 label : fireHydrant 0.21
+411 40 668 372 80 28 -1 -1 -1 -1 label : spot-1 0.19
+412 38 1154 373 66 113 -1 -1 -1 -1 label : fireHydrant 0.50
+412 40 667 373 77 27 -1 -1 -1 -1 label : spot-1 0.12
+413 38 1159 371 67 116 -1 -1 -1 -1 label : fireHydrant 0.51
+413 40 668 373 74 27 -1 -1 -1 -1 label : spot-1 0.13
+414 38 1177 370 67 123 -1 -1 -1 -1 label : fireHydrant 0.27
+414 40 668 373 70 25 -1 -1 -1 -1 label : spot-1 0.11
+415 38 1183 370 68 125 -1 -1 -1 -1 label : fireHydrant 0.24
+415 40 667 373 70 25 -1 -1 -1 -1 label : spot-1 0.10
+416 38 1194 372 79 125 -1 -1 -1 -1 label : fireHydrant 0.33
+416 40 670 374 61 24 -1 -1 -1 -1 label : spot-1 0.11
+417 38 1201 373 78 125 -1 -1 -1 -1 label : fireHydrant 0.34
+417 40 670 374 61 24 -1 -1 -1 -1 label : spot-1 0.10
+418 38 1226 379 52 127 -1 -1 -1 -1 label : fireHydrant 0.28
+419 38 1229 381 50 128 -1 -1 -1 -1 label : fireHydrant 0.28
+420 38 1249 390 30 134 -1 -1 -1 -1 label : fireHydrant 0.11
+420 40 669 375 71 25 -1 -1 -1 -1 label : spot-1 0.11
+421 38 1252 394 27 136 -1 -1 -1 -1 label : fireHydrant 0.12
+421 40 670 375 71 26 -1 -1 -1 -1 label : spot-1 0.10

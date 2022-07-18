@@ -1,0 +1,13 @@
+3 1 904 238 375 192 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.56
+4 1 904 241 375 184 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.54
+5 1 908 242 371 182 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.54
+6 1 911 243 368 178 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.55
+7 1 913 243 366 176 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.55
+8 1 914 244 364 176 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.53
+9 1 914 244 364 176 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.53
+529 2 55 225 17 44 -1 -1 -1 -1 label : fireHydrant 0.63
+530 2 57 227 16 42 -1 -1 -1 -1 label : fireHydrant 0.66
+531 2 58 228 16 41 -1 -1 -1 -1 label : fireHydrant 0.66
+532 2 59 228 15 43 -1 -1 -1 -1 label : fireHydrant 0.55
+533 2 59 229 16 43 -1 -1 -1 -1 label : fireHydrant 0.55
+537 2 60 234 16 39 -1 -1 -1 -1 label : fireHydrant 0.50

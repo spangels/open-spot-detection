@@ -1,0 +1,12 @@
+139 1 712 489 566 167 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.54
+140 1 855 500 406 171 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.51
+141 1 874 501 405 174 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.53
+142 1 892 505 387 169 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.56
+143 1 916 505 363 170 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.57
+143 3 605 467 296 56 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.55
+144 1 941 507 338 184 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.65
+144 3 611 470 308 57 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+145 1 960 507 319 184 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+259 13 723 506 555 169 -1 -1 -1 -1 label : spot-1 0.63
+260 13 763 506 509 178 -1 -1 -1 -1 label : spot-1 0.56
+261 13 760 510 519 174 -1 -1 -1 -1 label : spot-1 0.52

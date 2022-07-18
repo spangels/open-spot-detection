@@ -1,0 +1,1 @@
+54 2 0 470 69 59 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.20

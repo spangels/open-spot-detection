@@ -1,0 +1,4 @@
+691 8 250 260 17 42 -1 -1 -1 -1 label : fireHydrant 0.47
+692 8 249 259 17 44 -1 -1 -1 -1 label : fireHydrant 0.47
+693 8 246 262 17 44 -1 -1 -1 -1 label : fireHydrant 0.50
+694 8 244 263 17 45 -1 -1 -1 -1 label : fireHydrant 0.50

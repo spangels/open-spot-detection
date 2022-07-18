@@ -1,0 +1,10 @@
+3 1 167 403 312 84 -1 -1 -1 -1 label : invalidSpot-entrance 0.57
+4 1 150 405 326 90 -1 -1 -1 -1 label : invalidSpot-entrance 0.57
+8 1 68 421 386 103 -1 -1 -1 -1 label : invalidSpot-entrance 0.55
+9 1 29 429 408 111 -1 -1 -1 -1 label : invalidSpot-entrance 0.53
+200 2 0 443 423 110 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.57
+201 2 0 445 413 110 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.55
+202 2 6 449 366 114 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.55
+203 2 0 453 374 108 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.58
+204 2 0 459 356 100 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.58
+205 2 5 462 304 101 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.53

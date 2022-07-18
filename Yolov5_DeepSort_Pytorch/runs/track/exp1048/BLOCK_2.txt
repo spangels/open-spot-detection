@@ -1,0 +1,6 @@
+104 1 764 432 149 52 -1 -1 -1 -1 label : spot-0.55
+108 1 761 433 166 54 -1 -1 -1 -1 label : spot-0.60
+111 1 758 436 182 59 -1 -1 -1 -1 label : spot-0.59
+148 3 823 464 456 106 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50
+153 3 839 472 439 108 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.53
+154 3 839 475 440 106 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.51

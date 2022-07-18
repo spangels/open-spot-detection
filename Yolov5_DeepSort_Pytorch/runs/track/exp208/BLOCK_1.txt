@@ -1,0 +1,1 @@
+29 3 1108 554 171 61 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.35

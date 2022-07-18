@@ -1,0 +1,1 @@
+4 2 95 395 81 41 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.61

@@ -1,0 +1,1 @@
+14 4 702 400 188 147 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.42

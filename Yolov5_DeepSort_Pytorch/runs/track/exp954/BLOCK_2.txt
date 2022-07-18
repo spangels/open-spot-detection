@@ -1,0 +1,10 @@
+738 6 906 304 20 49 -1 -1 -1 -1 label : fireHydrant 0.58
+739 6 905 302 22 52 -1 -1 -1 -1 label : fireHydrant 0.56
+806 9 1081 327 30 55 -1 -1 -1 -1 label : fireHydrant 0.73
+807 9 1083 326 30 57 -1 -1 -1 -1 label : fireHydrant 0.72
+808 9 1087 329 27 54 -1 -1 -1 -1 label : fireHydrant 0.57
+809 9 1088 330 26 54 -1 -1 -1 -1 label : fireHydrant 0.58
+810 9 1091 330 29 54 -1 -1 -1 -1 label : fireHydrant 0.57
+811 9 1092 330 30 54 -1 -1 -1 -1 label : fireHydrant 0.60
+814 9 1100 332 27 54 -1 -1 -1 -1 label : fireHydrant 0.69
+815 9 1102 333 27 53 -1 -1 -1 -1 label : fireHydrant 0.69

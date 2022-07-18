@@ -1,0 +1,1 @@
+21 5 26 488 146 80 -1 -1 -1 -1 label : invalidSpot-entrance 0.50

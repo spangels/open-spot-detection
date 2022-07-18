@@ -1,0 +1,13 @@
+366 3 151 386 26 56 -1 -1 -1 -1 label : fireHydrant 0.53
+367 3 152 387 25 54 -1 -1 -1 -1 label : fireHydrant 0.66
+376 3 157 391 27 55 -1 -1 -1 -1 label : fireHydrant 0.53
+382 3 164 396 25 56 -1 -1 -1 -1 label : fireHydrant 0.56
+383 3 165 399 28 57 -1 -1 -1 -1 label : fireHydrant 0.60
+384 3 165 399 29 61 -1 -1 -1 -1 label : fireHydrant 0.63
+385 3 165 401 30 61 -1 -1 -1 -1 label : fireHydrant 0.70
+386 3 167 405 29 62 -1 -1 -1 -1 label : fireHydrant 0.63
+387 3 169 408 28 60 -1 -1 -1 -1 label : fireHydrant 0.63
+388 3 170 410 28 61 -1 -1 -1 -1 label : fireHydrant 0.68
+389 3 170 413 29 59 -1 -1 -1 -1 label : fireHydrant 0.68
+390 3 172 417 27 58 -1 -1 -1 -1 label : fireHydrant 0.52
+391 3 172 420 28 58 -1 -1 -1 -1 label : fireHydrant 0.68

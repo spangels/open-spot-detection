@@ -1,0 +1,1 @@
+157 1 0 392 107 82 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.31

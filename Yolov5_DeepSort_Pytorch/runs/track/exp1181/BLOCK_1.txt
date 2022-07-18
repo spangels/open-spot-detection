@@ -1,0 +1,9 @@
+327 1 1163 345 116 82 -1 -1 -1 -1 label : invalidSpot-entrance 0.49
+328 1 1168 346 111 83 -1 -1 -1 -1 label : invalidSpot-entrance 0.51
+329 1 1176 349 103 80 -1 -1 -1 -1 label : invalidSpot-entrance 0.51
+330 1 1181 352 98 79 -1 -1 -1 -1 label : invalidSpot-entrance 0.49
+331 1 1187 354 92 77 -1 -1 -1 -1 label : invalidSpot-entrance 0.51
+332 1 1192 357 87 72 -1 -1 -1 -1 label : invalidSpot-entrance 0.49
+333 1 1197 359 82 70 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+334 1 1201 359 78 71 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+572 5 0 273 8 22 -1 -1 -1 -1 label : fireHydrant 0.47

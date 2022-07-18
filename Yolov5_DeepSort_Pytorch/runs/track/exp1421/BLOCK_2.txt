@@ -1,0 +1,12 @@
+279 2 97 441 19 50 -1 -1 -1 -1 label : fireHydrant 0.47
+280 2 93 442 21 49 -1 -1 -1 -1 label : fireHydrant 0.54
+281 2 90 442 23 49 -1 -1 -1 -1 label : fireHydrant 0.50
+283 2 84 446 24 48 -1 -1 -1 -1 label : fireHydrant 0.48
+284 2 81 448 22 48 -1 -1 -1 -1 label : fireHydrant 0.75
+285 2 78 449 22 49 -1 -1 -1 -1 label : fireHydrant 0.64
+286 2 73 450 25 51 -1 -1 -1 -1 label : fireHydrant 0.69
+287 2 71 451 22 50 -1 -1 -1 -1 label : fireHydrant 0.50
+292 2 57 452 24 52 -1 -1 -1 -1 label : fireHydrant 0.46
+293 2 50 455 24 50 -1 -1 -1 -1 label : fireHydrant 0.46
+294 2 46 455 23 53 -1 -1 -1 -1 label : fireHydrant 0.48
+295 2 39 456 27 52 -1 -1 -1 -1 label : fireHydrant 0.52

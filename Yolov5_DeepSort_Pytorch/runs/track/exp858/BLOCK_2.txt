@@ -1,0 +1,77 @@
+12 1 755 376 177 62 -1 -1 -1 -1 label : spot-0.51
+13 1 755 375 183 65 -1 -1 -1 -1 label : spot-0.51
+14 1 766 374 164 60 -1 -1 -1 -1 label : spot-0.46
+15 1 769 373 160 59 -1 -1 -1 -1 label : spot-0.45
+16 1 771 374 175 64 -1 -1 -1 -1 label : spot-0.43
+17 1 773 374 179 66 -1 -1 -1 -1 label : spot-0.43
+18 1 776 373 192 69 -1 -1 -1 -1 label : spot-0.51
+19 1 777 373 198 70 -1 -1 -1 -1 label : spot-0.51
+20 1 776 370 204 73 -1 -1 -1 -1 label : spot-0.41
+21 1 775 370 207 73 -1 -1 -1 -1 label : spot-0.42
+24 1 779 369 235 82 -1 -1 -1 -1 label : spot-0.53
+25 1 780 369 246 85 -1 -1 -1 -1 label : spot-0.53
+26 1 788 367 240 86 -1 -1 -1 -1 label : spot-0.53
+27 1 790 366 242 86 -1 -1 -1 -1 label : spot-0.53
+28 1 796 366 243 86 -1 -1 -1 -1 label : spot-0.52
+29 1 798 366 242 86 -1 -1 -1 -1 label : spot-0.52
+32 1 803 369 288 98 -1 -1 -1 -1 label : spot-0.44
+33 1 806 371 302 102 -1 -1 -1 -1 label : spot-0.44
+34 1 816 377 357 112 -1 -1 -1 -1 label : spot-0.42
+35 1 824 379 371 116 -1 -1 -1 -1 label : spot-0.42
+36 1 835 381 332 115 -1 -1 -1 -1 label : spot-0.62
+37 1 832 382 330 114 -1 -1 -1 -1 label : spot-0.62
+38 1 823 384 333 112 -1 -1 -1 -1 label : spot-0.55
+39 1 822 385 326 110 -1 -1 -1 -1 label : spot-0.55
+40 1 824 390 356 116 -1 -1 -1 -1 label : spot-0.65
+41 1 829 392 359 117 -1 -1 -1 -1 label : spot-0.64
+42 1 841 395 401 143 -1 -1 -1 -1 label : spot-0.58
+43 1 840 396 427 153 -1 -1 -1 -1 label : spot-0.58
+44 1 842 397 437 147 -1 -1 -1 -1 label : spot-0.61
+45 1 849 396 430 146 -1 -1 -1 -1 label : spot-0.61
+46 1 833 394 446 123 -1 -1 -1 -1 label : spot-0.57
+47 1 851 393 424 113 -1 -1 -1 -1 label : spot-0.57
+48 1 860 390 406 103 -1 -1 -1 -1 label : spot-0.53
+49 1 866 389 396 99 -1 -1 -1 -1 label : spot-0.53
+50 1 880 386 385 104 -1 -1 -1 -1 label : spot-0.54
+51 1 880 385 391 106 -1 -1 -1 -1 label : spot-0.55
+52 1 900 382 371 107 -1 -1 -1 -1 label : spot-0.44
+53 1 903 382 372 106 -1 -1 -1 -1 label : spot-0.44
+54 1 903 382 375 104 -1 -1 -1 -1 label : spot-0.55
+55 1 905 382 372 103 -1 -1 -1 -1 label : spot-0.55
+56 1 931 377 339 109 -1 -1 -1 -1 label : spot-0.53
+57 1 931 374 344 112 -1 -1 -1 -1 label : spot-0.53
+58 1 929 380 350 110 -1 -1 -1 -1 label : spot-0.52
+59 1 930 383 349 108 -1 -1 -1 -1 label : spot-0.52
+60 1 951 380 322 117 -1 -1 -1 -1 label : spot-0.46
+61 1 949 379 330 120 -1 -1 -1 -1 label : spot-0.46
+66 1 1010 380 255 129 -1 -1 -1 -1 label : spot-0.40
+67 1 1015 380 263 133 -1 -1 -1 -1 label : spot-0.41
+294 7 780 383 88 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.42
+295 7 782 384 89 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.43
+296 7 785 385 96 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+297 7 787 386 96 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+300 7 798 388 107 51 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+301 7 804 392 113 52 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+302 7 807 394 113 52 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+303 7 819 393 111 55 -1 -1 -1 -1 label : invalidSpot-entrance 0.44
+304 7 822 393 113 56 -1 -1 -1 -1 label : invalidSpot-entrance 0.44
+305 7 821 396 133 59 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+306 7 823 397 135 60 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+307 7 839 398 132 65 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+308 7 842 399 136 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+309 7 844 400 154 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+310 7 847 401 154 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+511 8 606 371 170 79 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.49
+512 8 606 372 173 79 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50
+513 8 603 372 185 84 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.44
+514 8 602 373 188 85 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.41
+515 8 602 374 190 88 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.48
+516 8 601 375 193 89 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.49
+519 8 609 375 202 101 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.45
+520 8 610 376 209 104 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.46
+521 8 609 376 224 112 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.58
+522 8 609 376 228 114 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.57
+523 8 610 377 238 121 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+524 8 610 376 243 124 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+525 8 609 377 253 128 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60
+526 8 609 377 256 130 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60

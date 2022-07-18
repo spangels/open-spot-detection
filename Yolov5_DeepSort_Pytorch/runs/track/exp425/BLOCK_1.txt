@@ -1,0 +1,1 @@
+4 1 15 435 195 36 -1 -1 -1 -1 label : invalidSpot-entrance 0.25

@@ -1,0 +1,1 @@
+118 1 871 576 188 36 -1 -1 -1 -1 label : invalidSpot-entrance 0.38

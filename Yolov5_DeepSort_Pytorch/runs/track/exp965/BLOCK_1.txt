@@ -1,0 +1,7 @@
+322 3 420 373 20 44 -1 -1 -1 -1 label : fireHydrant 0.51
+323 3 420 373 20 43 -1 -1 -1 -1 label : fireHydrant 0.64
+324 3 419 372 21 44 -1 -1 -1 -1 label : fireHydrant 0.64
+341 3 400 372 23 45 -1 -1 -1 -1 label : fireHydrant 0.55
+342 3 393 371 24 46 -1 -1 -1 -1 label : fireHydrant 0.55
+348 3 386 372 24 48 -1 -1 -1 -1 label : fireHydrant 0.60
+349 3 383 372 24 48 -1 -1 -1 -1 label : fireHydrant 0.60

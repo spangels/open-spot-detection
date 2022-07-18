@@ -1,0 +1,1 @@
+13 2 856 434 167 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.35

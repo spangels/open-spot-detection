@@ -1,0 +1,2 @@
+75 5 265 388 67 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+77 5 243 393 78 39 -1 -1 -1 -1 label : invalidSpot-entrance 0.44

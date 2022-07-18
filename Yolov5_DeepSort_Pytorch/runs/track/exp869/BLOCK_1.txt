@@ -1,0 +1,7 @@
+383 2 947 541 231 62 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+384 2 943 543 251 62 -1 -1 -1 -1 label : invalidSpot-entrance 0.40
+385 2 965 544 235 65 -1 -1 -1 -1 label : invalidSpot-entrance 0.43
+552 6 522 503 505 143 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+553 6 488 505 593 158 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+554 6 613 510 486 173 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.47
+555 6 657 514 500 190 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50

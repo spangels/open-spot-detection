@@ -1,0 +1,14 @@
+83 15 169 408 92 42 -1 -1 -1 -1 label : invalidSpot-entrance 0.52
+84 15 156 407 94 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+85 15 143 407 96 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+86 15 123 409 107 48 -1 -1 -1 -1 label : invalidSpot-entrance 0.50
+87 15 110 410 104 50 -1 -1 -1 -1 label : invalidSpot-entrance 0.52
+88 15 91 411 113 51 -1 -1 -1 -1 label : invalidSpot-entrance 0.56
+89 15 70 412 121 54 -1 -1 -1 -1 label : invalidSpot-entrance 0.61
+90 15 49 415 128 53 -1 -1 -1 -1 label : invalidSpot-entrance 0.58
+91 15 29 415 133 55 -1 -1 -1 -1 label : invalidSpot-entrance 0.59
+92 15 8 417 138 59 -1 -1 -1 -1 label : invalidSpot-entrance 0.59
+93 15 2 420 128 66 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+94 15 1 422 110 74 -1 -1 -1 -1 label : invalidSpot-entrance 0.54
+95 15 0 424 99 75 -1 -1 -1 -1 label : invalidSpot-entrance 0.56
+96 15 0 427 83 73 -1 -1 -1 -1 label : invalidSpot-entrance 0.42

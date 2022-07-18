@@ -1,0 +1,1 @@
+75 1 691 384 62 20 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.41

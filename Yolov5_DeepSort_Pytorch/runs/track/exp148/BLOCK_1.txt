@@ -1,0 +1,1 @@
+4 2 831 352 440 172 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.38

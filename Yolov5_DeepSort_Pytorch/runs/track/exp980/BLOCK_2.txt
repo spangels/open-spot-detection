@@ -1,0 +1,16 @@
+92 3 35 453 194 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.53
+93 3 22 454 203 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.59
+95 3 14 454 200 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.55
+96 3 6 454 207 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.59
+173 4 258 312 13 37 -1 -1 -1 -1 label : fireHydrant 0.59
+174 4 258 313 12 37 -1 -1 -1 -1 label : fireHydrant 0.67
+186 4 250 313 12 38 -1 -1 -1 -1 label : fireHydrant 0.65
+187 4 248 312 12 39 -1 -1 -1 -1 label : fireHydrant 0.59
+188 4 245 310 13 41 -1 -1 -1 -1 label : fireHydrant 0.54
+226 6 94 316 15 34 -1 -1 -1 -1 label : fireHydrant 0.62
+227 6 90 317 14 34 -1 -1 -1 -1 label : fireHydrant 0.55
+255 10 132 283 19 60 -1 -1 -1 -1 label : fireHydrant 0.61
+256 10 132 283 19 60 -1 -1 -1 -1 label : fireHydrant 0.56
+260 11 8 302 22 42 -1 -1 -1 -1 label : fireHydrant 0.54
+271 12 0 307 10 40 -1 -1 -1 -1 label : fireHydrant 0.61
+272 12 0 308 9 39 -1 -1 -1 -1 label : fireHydrant 0.59

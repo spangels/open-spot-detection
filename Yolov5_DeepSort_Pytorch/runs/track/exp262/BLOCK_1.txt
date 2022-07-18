@@ -1,0 +1,1 @@
+8 1 830 511 194 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.40

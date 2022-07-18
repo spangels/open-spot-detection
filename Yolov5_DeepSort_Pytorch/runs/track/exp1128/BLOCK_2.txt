@@ -1,0 +1,46 @@
+12 1 755 376 177 62 -1 -1 -1 -1 label : spot-0.51
+13 1 755 375 183 65 -1 -1 -1 -1 label : spot-0.51
+14 1 766 374 164 60 -1 -1 -1 -1 label : spot-0.46
+18 1 774 373 188 67 -1 -1 -1 -1 label : spot-0.51
+19 1 777 372 197 70 -1 -1 -1 -1 label : spot-0.51
+24 1 781 370 232 81 -1 -1 -1 -1 label : spot-0.53
+25 1 781 369 246 85 -1 -1 -1 -1 label : spot-0.53
+26 1 789 367 242 86 -1 -1 -1 -1 label : spot-0.53
+27 1 790 366 245 87 -1 -1 -1 -1 label : spot-0.53
+28 1 797 365 244 88 -1 -1 -1 -1 label : spot-0.52
+29 1 798 366 244 86 -1 -1 -1 -1 label : spot-0.52
+37 1 822 378 310 107 -1 -1 -1 -1 label : spot-0.62
+38 1 821 383 327 110 -1 -1 -1 -1 label : spot-0.55
+39 1 822 385 326 109 -1 -1 -1 -1 label : spot-0.55
+40 1 825 390 357 116 -1 -1 -1 -1 label : spot-0.65
+41 1 830 392 361 118 -1 -1 -1 -1 label : spot-0.64
+42 1 842 395 402 144 -1 -1 -1 -1 label : spot-0.58
+43 1 841 396 428 154 -1 -1 -1 -1 label : spot-0.58
+44 1 842 397 437 148 -1 -1 -1 -1 label : spot-0.61
+45 1 850 396 429 146 -1 -1 -1 -1 label : spot-0.61
+46 1 834 394 445 123 -1 -1 -1 -1 label : spot-0.57
+47 1 851 393 427 114 -1 -1 -1 -1 label : spot-0.57
+48 1 860 391 409 103 -1 -1 -1 -1 label : spot-0.53
+49 1 866 389 398 100 -1 -1 -1 -1 label : spot-0.53
+50 1 881 386 385 104 -1 -1 -1 -1 label : spot-0.54
+51 1 880 385 392 106 -1 -1 -1 -1 label : spot-0.55
+54 1 899 383 375 104 -1 -1 -1 -1 label : spot-0.55
+55 1 905 383 371 103 -1 -1 -1 -1 label : spot-0.55
+56 1 932 377 338 109 -1 -1 -1 -1 label : spot-0.53
+57 1 932 374 344 112 -1 -1 -1 -1 label : spot-0.53
+58 1 930 380 349 110 -1 -1 -1 -1 label : spot-0.52
+59 1 931 383 348 108 -1 -1 -1 -1 label : spot-0.52
+60 1 951 380 323 117 -1 -1 -1 -1 label : spot-0.46
+61 1 950 379 329 120 -1 -1 -1 -1 label : spot-0.46
+302 5 806 394 113 52 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+305 5 817 396 131 58 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+306 5 822 397 135 60 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+307 5 839 398 133 66 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+308 5 842 399 138 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+309 5 844 400 155 68 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+310 5 848 401 155 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+522 8 609 375 227 115 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.57
+523 8 610 376 238 122 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+524 8 610 376 242 124 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+525 8 609 376 252 129 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60
+526 8 609 376 255 130 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60

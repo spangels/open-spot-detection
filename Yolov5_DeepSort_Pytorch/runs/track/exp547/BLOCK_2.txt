@@ -1,0 +1,439 @@
+3 1 737 394 147 51 -1 -1 -1 -1 label : spot-0.28
+3 2 911 332 33 95 -1 -1 -1 -1 label : fireHydrant 0.27
+4 1 750 393 138 52 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.29
+4 2 918 327 32 103 -1 -1 -1 -1 label : fireHydrant 0.20
+5 1 752 392 141 53 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.28
+5 2 920 325 32 106 -1 -1 -1 -1 label : fireHydrant 0.20
+6 1 748 388 156 57 -1 -1 -1 -1 label : spot-0.29
+7 1 748 386 159 58 -1 -1 -1 -1 label : spot-0.28
+8 1 758 381 154 60 -1 -1 -1 -1 label : spot-0.32
+8 2 939 315 38 102 -1 -1 -1 -1 label : fireHydrant 0.30
+9 1 760 379 156 61 -1 -1 -1 -1 label : spot-0.32
+9 2 941 315 38 100 -1 -1 -1 -1 label : fireHydrant 0.32
+10 1 759 377 155 59 -1 -1 -1 -1 label : spot-0.46
+10 2 946 312 38 101 -1 -1 -1 -1 label : fireHydrant 0.32
+11 1 758 376 155 58 -1 -1 -1 -1 label : spot-0.46
+12 1 755 375 177 62 -1 -1 -1 -1 label : spot-0.51
+13 1 756 375 181 64 -1 -1 -1 -1 label : spot-0.51
+14 1 766 373 165 61 -1 -1 -1 -1 label : spot-0.46
+14 2 969 304 39 125 -1 -1 -1 -1 label : fireHydrant 0.32
+15 1 768 373 161 59 -1 -1 -1 -1 label : spot-0.45
+15 2 971 304 39 126 -1 -1 -1 -1 label : fireHydrant 0.32
+16 1 771 373 175 64 -1 -1 -1 -1 label : spot-0.43
+17 1 773 374 179 65 -1 -1 -1 -1 label : spot-0.43
+18 1 775 373 193 68 -1 -1 -1 -1 label : spot-0.51
+19 1 777 372 198 70 -1 -1 -1 -1 label : spot-0.51
+20 1 775 370 205 72 -1 -1 -1 -1 label : spot-0.41
+21 1 775 369 207 74 -1 -1 -1 -1 label : spot-0.42
+22 1 772 369 223 75 -1 -1 -1 -1 label : spot-0.36
+22 2 1022 347 35 91 -1 -1 -1 -1 label : fireHydrant 0.15
+23 1 772 369 225 75 -1 -1 -1 -1 label : spot-0.34
+23 2 1025 351 33 87 -1 -1 -1 -1 label : fireHydrant 0.15
+24 1 780 368 236 83 -1 -1 -1 -1 label : spot-0.53
+25 1 780 369 246 85 -1 -1 -1 -1 label : spot-0.53
+26 1 788 367 240 86 -1 -1 -1 -1 label : spot-0.53
+27 1 789 366 243 86 -1 -1 -1 -1 label : spot-0.53
+28 1 796 366 242 86 -1 -1 -1 -1 label : spot-0.52
+29 1 798 366 242 86 -1 -1 -1 -1 label : spot-0.52
+30 1 795 367 257 84 -1 -1 -1 -1 label : spot-0.37
+31 1 798 368 254 83 -1 -1 -1 -1 label : spot-0.37
+32 1 806 370 285 97 -1 -1 -1 -1 label : spot-0.44
+32 5 808 374 452 140 -1 -1 -1 -1 label : spot-1 0.10
+33 1 807 371 301 101 -1 -1 -1 -1 label : spot-0.44
+33 5 811 373 452 141 -1 -1 -1 -1 label : spot-1 0.11
+34 1 814 373 282 94 -1 -1 -1 -1 label : spot-0.42
+34 5 822 378 392 122 -1 -1 -1 -1 label : spot-1 0.14
+35 1 817 373 274 92 -1 -1 -1 -1 label : spot-0.42
+35 5 826 379 374 118 -1 -1 -1 -1 label : spot-1 0.14
+36 1 827 379 305 105 -1 -1 -1 -1 label : spot-0.62
+36 5 830 380 359 113 -1 -1 -1 -1 label : spot-1 0.15
+37 1 829 381 319 110 -1 -1 -1 -1 label : spot-0.62
+37 6 689 313 62 44 -1 -1 -1 -1 label : spot-1 0.15
+38 1 822 384 330 111 -1 -1 -1 -1 label : spot-0.55
+38 6 691 314 63 46 -1 -1 -1 -1 label : spot-1 0.17
+39 1 821 385 326 110 -1 -1 -1 -1 label : spot-0.55
+39 6 692 315 63 46 -1 -1 -1 -1 label : spot-1 0.14
+40 1 824 390 356 115 -1 -1 -1 -1 label : spot-0.65
+41 1 828 392 360 118 -1 -1 -1 -1 label : spot-0.64
+42 1 826 394 344 104 -1 -1 -1 -1 label : spot-0.58
+42 5 836 395 433 154 -1 -1 -1 -1 label : spot-1 0.10
+43 1 827 396 351 105 -1 -1 -1 -1 label : spot-0.58
+44 5 839 396 440 149 -1 -1 -1 -1 label : spot-1 0.61
+45 5 847 396 429 145 -1 -1 -1 -1 label : spot-1 0.61
+46 1 851 393 407 108 -1 -1 -1 -1 label : spot-0.57
+46 5 848 397 431 147 -1 -1 -1 -1 label : spot-1 0.16
+47 1 856 393 407 108 -1 -1 -1 -1 label : spot-0.57
+47 6 694 318 79 52 -1 -1 -1 -1 label : spot-1 0.17
+48 1 861 390 403 102 -1 -1 -1 -1 label : spot-0.53
+48 6 696 313 81 54 -1 -1 -1 -1 label : spot-1 0.24
+49 1 866 389 397 100 -1 -1 -1 -1 label : spot-0.53
+49 6 697 311 82 55 -1 -1 -1 -1 label : spot-1 0.25
+50 1 880 386 386 105 -1 -1 -1 -1 label : spot-0.54
+50 6 702 312 82 52 -1 -1 -1 -1 label : spot-1 0.22
+51 1 880 385 392 106 -1 -1 -1 -1 label : spot-0.55
+51 6 704 312 81 51 -1 -1 -1 -1 label : spot-1 0.23
+52 1 900 383 372 107 -1 -1 -1 -1 label : spot-0.44
+52 6 718 310 68 49 -1 -1 -1 -1 label : spot-1 0.32
+53 1 903 382 373 107 -1 -1 -1 -1 label : spot-0.44
+53 6 721 309 67 49 -1 -1 -1 -1 label : spot-1 0.31
+54 1 902 382 377 105 -1 -1 -1 -1 label : spot-0.55
+54 6 709 306 87 52 -1 -1 -1 -1 label : spot-1 0.33
+55 1 905 382 373 104 -1 -1 -1 -1 label : spot-0.55
+55 6 706 305 90 53 -1 -1 -1 -1 label : spot-1 0.34
+56 1 931 377 339 109 -1 -1 -1 -1 label : spot-0.53
+56 6 708 305 105 48 -1 -1 -1 -1 label : spot-1 0.23
+57 1 931 374 345 112 -1 -1 -1 -1 label : spot-0.53
+57 6 714 305 101 47 -1 -1 -1 -1 label : spot-1 0.22
+58 1 929 380 350 110 -1 -1 -1 -1 label : spot-0.52
+58 6 720 302 89 51 -1 -1 -1 -1 label : spot-1 0.24
+59 1 930 383 349 108 -1 -1 -1 -1 label : spot-0.52
+59 6 719 302 90 51 -1 -1 -1 -1 label : spot-1 0.27
+60 1 951 380 323 117 -1 -1 -1 -1 label : spot-0.46
+60 6 720 298 92 52 -1 -1 -1 -1 label : spot-1 0.26
+61 1 949 379 330 120 -1 -1 -1 -1 label : spot-0.46
+61 6 721 297 92 53 -1 -1 -1 -1 label : spot-1 0.25
+62 1 1012 379 254 125 -1 -1 -1 -1 label : spot-0.35
+62 6 725 293 92 58 -1 -1 -1 -1 label : spot-1 0.32
+63 1 1021 378 256 128 -1 -1 -1 -1 label : spot-0.32
+63 6 727 291 93 60 -1 -1 -1 -1 label : spot-1 0.32
+64 1 1019 377 258 144 -1 -1 -1 -1 label : spot-0.34
+64 6 729 290 96 62 -1 -1 -1 -1 label : spot-1 0.33
+65 1 1013 377 266 149 -1 -1 -1 -1 label : spot-0.34
+65 6 730 289 97 63 -1 -1 -1 -1 label : spot-1 0.33
+66 1 1011 379 268 141 -1 -1 -1 -1 label : spot-0.40
+66 6 730 295 112 61 -1 -1 -1 -1 label : spot-1 0.37
+67 1 1014 380 265 137 -1 -1 -1 -1 label : spot-0.41
+67 6 735 296 108 62 -1 -1 -1 -1 label : spot-1 0.37
+68 1 1029 380 250 141 -1 -1 -1 -1 label : spot-0.37
+68 6 738 296 108 60 -1 -1 -1 -1 label : spot-1 0.26
+69 1 1029 381 250 141 -1 -1 -1 -1 label : spot-0.38
+69 6 740 295 107 61 -1 -1 -1 -1 label : spot-1 0.26
+70 1 1062 395 209 158 -1 -1 -1 -1 label : spot-0.34
+70 6 736 305 120 61 -1 -1 -1 -1 label : spot-1 0.19
+71 1 1061 401 218 163 -1 -1 -1 -1 label : spot-0.34
+71 6 737 309 121 61 -1 -1 -1 -1 label : spot-1 0.20
+72 1 1059 404 220 162 -1 -1 -1 -1 label : spot-0.41
+72 6 733 313 128 59 -1 -1 -1 -1 label : spot-1 0.18
+73 1 1061 406 218 160 -1 -1 -1 -1 label : spot-0.39
+73 6 734 314 125 58 -1 -1 -1 -1 label : spot-1 0.19
+76 6 745 324 126 64 -1 -1 -1 -1 label : spot-1 0.24
+77 6 748 328 130 66 -1 -1 -1 -1 label : spot-1 0.24
+80 6 759 338 139 76 -1 -1 -1 -1 label : spot-1 0.50
+81 6 762 341 144 80 -1 -1 -1 -1 label : spot-1 0.49
+82 6 756 350 177 64 -1 -1 -1 -1 label : spot-1 0.13
+83 6 770 354 157 57 -1 -1 -1 -1 label : spot-1 0.13
+84 6 769 361 168 61 -1 -1 -1 -1 label : spot-1 0.30
+85 6 769 364 171 64 -1 -1 -1 -1 label : spot-1 0.29
+86 6 750 367 206 57 -1 -1 -1 -1 label : spot-1 0.10
+88 6 856 363 23 50 -1 -1 -1 -1 label : fireHydrant 0.19
+89 6 863 361 20 48 -1 -1 -1 -1 label : fireHydrant 0.18
+90 6 869 364 19 46 -1 -1 -1 -1 label : fireHydrant 0.11
+92 1 789 385 246 85 -1 -1 -1 -1 label : spot-0.24
+93 1 785 384 237 82 -1 -1 -1 -1 label : spot-0.23
+94 1 782 385 246 82 -1 -1 -1 -1 label : spot-0.36
+95 1 783 386 246 82 -1 -1 -1 -1 label : spot-0.34
+96 1 787 395 280 80 -1 -1 -1 -1 label : spot-0.14
+97 1 796 398 278 80 -1 -1 -1 -1 label : spot-0.14
+100 1 796 398 349 93 -1 -1 -1 -1 label : spot-2 0.12
+104 1 812 399 413 108 -1 -1 -1 -1 label : spot-2 0.12
+105 1 822 401 426 121 -1 -1 -1 -1 label : spot-2 0.23
+106 1 820 402 442 126 -1 -1 -1 -1 label : spot-2 0.22
+107 1 794 407 475 125 -1 -1 -1 -1 label : spot-0.18
+108 1 791 409 472 124 -1 -1 -1 -1 label : spot-0.19
+109 1 822 410 442 128 -1 -1 -1 -1 label : spot-2 0.15
+110 1 828 410 443 130 -1 -1 -1 -1 label : spot-2 0.13
+111 1 805 413 458 128 -1 -1 -1 -1 label : spot-0.24
+112 1 803 413 451 128 -1 -1 -1 -1 label : spot-0.26
+113 1 825 415 436 123 -1 -1 -1 -1 label : spot-0.25
+114 1 834 416 428 121 -1 -1 -1 -1 label : spot-0.24
+115 1 827 421 451 121 -1 -1 -1 -1 label : spot-0.37
+116 1 829 423 449 120 -1 -1 -1 -1 label : spot-0.38
+117 1 840 423 416 116 -1 -1 -1 -1 label : spot-0.31
+117 6 796 389 23 55 -1 -1 -1 -1 label : fireHydrant 0.14
+118 1 840 423 410 114 -1 -1 -1 -1 label : spot-0.32
+118 6 794 389 23 55 -1 -1 -1 -1 label : fireHydrant 0.14
+119 1 838 430 439 109 -1 -1 -1 -1 label : spot-0.15
+120 1 846 432 431 107 -1 -1 -1 -1 label : spot-0.13
+125 6 830 398 26 64 -1 -1 -1 -1 label : fireHydrant 0.37
+126 6 835 398 27 65 -1 -1 -1 -1 label : fireHydrant 0.37
+172 11 744 396 151 71 -1 -1 -1 -1 label : spot-1 0.27
+173 11 747 397 152 72 -1 -1 -1 -1 label : spot-1 0.27
+174 11 750 396 161 77 -1 -1 -1 -1 label : spot-1 0.42
+175 11 752 396 163 78 -1 -1 -1 -1 label : spot-1 0.41
+176 11 762 398 174 85 -1 -1 -1 -1 label : spot-1 0.39
+177 11 766 398 178 88 -1 -1 -1 -1 label : spot-1 0.41
+180 11 762 402 231 82 -1 -1 -1 -1 label : spot-1 0.33
+181 11 772 403 227 80 -1 -1 -1 -1 label : spot-1 0.32
+182 11 791 407 222 76 -1 -1 -1 -1 label : spot-1 0.36
+183 11 800 408 216 75 -1 -1 -1 -1 label : spot-1 0.36
+184 11 797 414 247 74 -1 -1 -1 -1 label : spot-1 0.21
+185 11 800 415 249 74 -1 -1 -1 -1 label : spot-1 0.21
+186 11 785 413 398 90 -1 -1 -1 -1 label : spot-1 0.21
+187 11 794 413 425 97 -1 -1 -1 -1 label : spot-1 0.22
+188 11 827 414 334 91 -1 -1 -1 -1 label : spot-1 0.35
+189 11 827 415 325 87 -1 -1 -1 -1 label : spot-1 0.35
+190 11 799 415 449 93 -1 -1 -1 -1 label : spot-1 0.12
+191 11 805 415 463 96 -1 -1 -1 -1 label : spot-1 0.12
+192 11 809 423 466 93 -1 -1 -1 -1 label : spot-1 0.41
+193 11 812 426 461 91 -1 -1 -1 -1 label : spot-1 0.39
+211 13 638 369 160 35 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+212 13 642 370 157 35 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+213 13 645 371 155 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+219 13 663 378 186 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+220 13 666 379 189 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+221 13 683 378 156 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+222 13 685 377 153 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+223 11 672 381 228 66 -1 -1 -1 -1 label : spot-1 0.16
+224 11 662 379 224 65 -1 -1 -1 -1 label : spot-1 0.16
+243 11 736 377 131 57 -1 -1 -1 -1 label : invalidSpot-entrance 0.32
+244 11 749 377 124 54 -1 -1 -1 -1 label : invalidSpot-entrance 0.33
+245 11 739 379 154 54 -1 -1 -1 -1 label : invalidSpot-entrance 0.38
+246 11 742 379 152 55 -1 -1 -1 -1 label : invalidSpot-entrance 0.38
+247 11 763 378 133 62 -1 -1 -1 -1 label : invalidSpot-entrance 0.34
+247 13 685 384 206 46 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+248 11 765 378 136 63 -1 -1 -1 -1 label : invalidSpot-entrance 0.34
+248 13 686 385 205 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+249 11 770 380 111 59 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+249 13 687 386 211 46 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+250 11 769 382 107 56 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+251 11 771 385 135 60 -1 -1 -1 -1 label : invalidSpot-entrance 0.19
+252 11 775 386 137 61 -1 -1 -1 -1 label : invalidSpot-entrance 0.19
+253 11 780 387 137 61 -1 -1 -1 -1 label : invalidSpot-entrance 0.33
+253 16 665 368 66 21 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+254 11 782 387 137 61 -1 -1 -1 -1 label : invalidSpot-entrance 0.32
+254 16 666 369 64 20 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+255 11 779 389 172 62 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+255 16 666 369 64 20 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+256 11 777 389 202 65 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+256 17 694 362 39 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+257 11 800 390 151 65 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+258 11 799 391 151 64 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+259 11 725 394 323 69 -1 -1 -1 -1 label : invalidSpot-entrance 0.26
+259 17 699 362 45 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+260 11 728 395 326 71 -1 -1 -1 -1 label : invalidSpot-entrance 0.26
+260 17 699 363 46 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.11
+261 11 801 396 235 79 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+261 17 699 364 47 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.22
+262 11 808 397 242 82 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+262 17 700 364 46 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.21
+263 11 815 400 260 86 -1 -1 -1 -1 label : invalidSpot-entrance 0.28
+264 11 819 400 263 88 -1 -1 -1 -1 label : invalidSpot-entrance 0.27
+265 11 820 401 290 88 -1 -1 -1 -1 label : invalidSpot-entrance 0.35
+266 11 824 402 292 88 -1 -1 -1 -1 label : invalidSpot-entrance 0.37
+266 17 680 370 81 26 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+267 11 834 402 310 98 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+267 17 701 370 55 26 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+268 11 835 403 322 100 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+268 17 704 370 55 27 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+269 11 835 404 340 102 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+269 16 622 357 96 25 -1 -1 -1 -1 label : spot-1 0.12
+270 16 620 356 97 25 -1 -1 -1 -1 label : spot-1 0.12
+270 17 694 371 72 26 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+271 16 617 356 100 25 -1 -1 -1 -1 label : spot-1 0.13
+272 17 677 369 100 29 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+273 17 676 369 101 29 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+274 17 716 368 56 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+275 17 720 368 60 34 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+276 17 721 367 67 35 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+277 17 723 367 67 35 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+278 13 667 381 135 24 -1 -1 -1 -1 label : invalidSpot-entrance 0.28
+278 16 719 372 70 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+278 17 666 358 95 31 -1 -1 -1 -1 label : spot-1 0.10
+279 13 667 380 133 24 -1 -1 -1 -1 label : invalidSpot-entrance 0.28
+279 16 723 373 72 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+279 17 652 355 90 29 -1 -1 -1 -1 label : spot-1 0.10
+280 11 746 394 186 47 -1 -1 -1 -1 label : spot-1 0.22
+280 13 667 380 128 23 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+281 11 745 394 173 43 -1 -1 -1 -1 label : spot-1 0.22
+281 16 714 376 95 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+282 11 748 393 172 44 -1 -1 -1 -1 label : spot-1 0.24
+282 16 704 376 111 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+282 17 648 352 93 29 -1 -1 -1 -1 label : spot-1 0.18
+283 11 748 393 174 44 -1 -1 -1 -1 label : spot-1 0.23
+283 16 704 376 110 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+283 17 648 352 93 29 -1 -1 -1 -1 label : spot-1 0.18
+284 11 761 380 72 41 -1 -1 -1 -1 label : invalidSpot-entrance 0.25
+284 16 693 377 128 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+285 11 748 375 70 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.25
+285 16 691 377 130 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+286 11 748 374 73 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+286 16 696 380 128 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+287 11 748 373 73 41 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+287 16 697 381 128 33 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+288 11 754 374 73 44 -1 -1 -1 -1 label : invalidSpot-entrance 0.32
+288 16 688 383 148 32 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+288 20 760 402 222 54 -1 -1 -1 -1 label : spot-1 0.12
+289 11 755 375 76 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.31
+289 16 688 384 149 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+289 20 762 403 226 55 -1 -1 -1 -1 label : spot-1 0.12
+290 11 758 377 84 44 -1 -1 -1 -1 label : invalidSpot-entrance 0.37
+291 11 761 378 84 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.38
+292 11 772 380 78 44 -1 -1 -1 -1 label : invalidSpot-entrance 0.43
+292 20 773 411 259 56 -1 -1 -1 -1 label : spot-1 0.17
+293 11 775 381 79 45 -1 -1 -1 -1 label : invalidSpot-entrance 0.43
+293 20 777 412 258 56 -1 -1 -1 -1 label : spot-1 0.18
+294 11 778 382 88 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.42
+295 11 780 383 89 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.43
+295 20 787 415 269 60 -1 -1 -1 -1 label : spot-1 0.11
+296 11 783 385 96 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+296 16 665 367 127 34 -1 -1 -1 -1 label : spot-2 0.17
+297 11 786 385 96 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.45
+297 16 662 366 127 34 -1 -1 -1 -1 label : spot-2 0.17
+298 11 790 387 102 51 -1 -1 -1 -1 label : invalidSpot-entrance 0.39
+298 16 669 365 121 36 -1 -1 -1 -1 label : spot-2 0.14
+299 11 792 387 104 54 -1 -1 -1 -1 label : invalidSpot-entrance 0.39
+299 16 667 365 126 36 -1 -1 -1 -1 label : spot-2 0.14
+300 11 798 388 111 53 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+300 16 670 366 129 35 -1 -1 -1 -1 label : spot-2 0.18
+300 20 745 398 180 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+301 11 803 392 114 52 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+302 11 806 393 113 53 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+303 11 818 393 110 55 -1 -1 -1 -1 label : invalidSpot-entrance 0.44
+304 11 821 393 112 56 -1 -1 -1 -1 label : invalidSpot-entrance 0.44
+305 11 820 395 132 59 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+306 11 822 396 135 60 -1 -1 -1 -1 label : invalidSpot-entrance 0.48
+307 11 838 398 131 65 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+307 16 679 374 161 41 -1 -1 -1 -1 label : spot-1 0.14
+308 11 841 399 136 66 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+308 16 680 374 163 42 -1 -1 -1 -1 label : spot-1 0.14
+309 11 843 400 153 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+309 16 683 372 161 44 -1 -1 -1 -1 label : spot-1 0.14
+309 20 726 409 280 48 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+310 11 847 401 153 66 -1 -1 -1 -1 label : invalidSpot-entrance 0.47
+310 16 679 372 168 44 -1 -1 -1 -1 label : spot-1 0.14
+310 20 727 409 280 50 -1 -1 -1 -1 label : invalidSpot-entrance 0.11
+311 11 860 405 153 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+311 16 691 376 167 43 -1 -1 -1 -1 label : spot-1 0.11
+312 11 865 406 152 68 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+312 16 696 378 166 42 -1 -1 -1 -1 label : spot-1 0.11
+313 11 869 408 155 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.28
+313 16 704 377 161 47 -1 -1 -1 -1 label : spot-1 0.12
+314 11 872 408 152 67 -1 -1 -1 -1 label : invalidSpot-entrance 0.29
+314 16 703 376 168 49 -1 -1 -1 -1 label : spot-1 0.12
+318 20 680 374 118 29 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+319 11 848 421 313 86 -1 -1 -1 -1 label : invalidSpot-entrance 0.23
+319 16 757 391 159 46 -1 -1 -1 -1 label : spot-1 0.13
+319 20 699 374 88 28 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+320 11 840 423 344 90 -1 -1 -1 -1 label : invalidSpot-entrance 0.22
+320 16 727 394 202 43 -1 -1 -1 -1 label : spot-1 0.14
+320 20 700 373 87 29 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+321 11 810 425 411 92 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+321 16 743 393 188 47 -1 -1 -1 -1 label : spot-1 0.15
+321 20 703 373 87 29 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+322 11 810 426 412 93 -1 -1 -1 -1 label : invalidSpot-entrance 0.24
+322 16 742 392 195 49 -1 -1 -1 -1 label : spot-1 0.15
+322 20 704 372 88 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+323 11 929 424 238 95 -1 -1 -1 -1 label : invalidSpot-entrance 0.21
+323 16 752 392 197 50 -1 -1 -1 -1 label : spot-1 0.18
+323 20 704 373 95 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+324 11 940 424 240 95 -1 -1 -1 -1 label : invalidSpot-entrance 0.21
+324 16 755 392 199 50 -1 -1 -1 -1 label : spot-1 0.18
+324 20 706 373 94 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.13
+325 11 901 426 344 98 -1 -1 -1 -1 label : invalidSpot-entrance 0.22
+325 16 749 395 221 52 -1 -1 -1 -1 label : spot-1 0.21
+325 20 691 374 120 30 -1 -1 -1 -1 label : invalidSpot-entrance 0.10
+326 11 905 427 347 99 -1 -1 -1 -1 label : invalidSpot-entrance 0.22
+326 16 748 396 225 53 -1 -1 -1 -1 label : spot-1 0.21
+326 20 690 374 121 31 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+327 11 903 428 371 102 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+328 20 733 372 84 37 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+329 20 735 371 92 37 -1 -1 -1 -1 label : invalidSpot-entrance 0.26
+330 20 738 371 92 37 -1 -1 -1 -1 label : invalidSpot-entrance 0.28
+332 20 742 372 93 39 -1 -1 -1 -1 label : invalidSpot-entrance 0.11
+333 20 739 373 102 39 -1 -1 -1 -1 label : invalidSpot-entrance 0.12
+334 20 738 372 104 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.11
+337 20 739 375 123 42 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+338 20 742 376 125 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+339 20 741 378 140 46 -1 -1 -1 -1 label : invalidSpot-entrance 0.17
+340 20 745 378 141 47 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+341 20 732 379 169 44 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+342 20 736 380 162 43 -1 -1 -1 -1 label : invalidSpot-entrance 0.16
+343 20 730 383 180 41 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+344 20 732 384 178 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.18
+345 20 725 385 191 40 -1 -1 -1 -1 label : invalidSpot-entrance 0.14
+346 20 725 386 191 39 -1 -1 -1 -1 label : invalidSpot-entrance 0.15
+354 20 750 394 216 41 -1 -1 -1 -1 label : invalidSpot-entrance 0.11
+429 25 715 397 213 63 -1 -1 -1 -1 label : spot-1 0.20
+430 25 715 398 221 64 -1 -1 -1 -1 label : spot-1 0.20
+433 25 741 399 253 61 -1 -1 -1 -1 label : spot-1 0.17
+434 25 755 400 250 58 -1 -1 -1 -1 label : spot-1 0.16
+437 25 750 403 315 62 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.23
+438 25 755 404 324 64 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.18
+439 25 767 405 332 65 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.15
+441 25 793 409 342 87 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.18
+442 25 794 410 352 90 -1 -1 -1 -1 label : invalidSpot-fireHydrant 0.21
+443 25 764 410 475 104 -1 -1 -1 -1 label : spot-2 0.15
+444 25 764 410 497 110 -1 -1 -1 -1 label : spot-2 0.16
+445 25 785 412 482 126 -1 -1 -1 -1 label : spot-2 0.12
+446 25 777 413 502 130 -1 -1 -1 -1 label : spot-2 0.11
+447 25 764 415 515 123 -1 -1 -1 -1 label : spot-2 0.10
+449 25 772 420 507 120 -1 -1 -1 -1 label : spot-1 0.16
+450 25 774 421 505 119 -1 -1 -1 -1 label : spot-1 0.16
+451 25 767 426 512 111 -1 -1 -1 -1 label : spot-1 0.25
+452 25 774 428 505 108 -1 -1 -1 -1 label : spot-1 0.25
+453 25 806 429 468 115 -1 -1 -1 -1 label : spot-1 0.28
+454 25 804 429 475 117 -1 -1 -1 -1 label : spot-1 0.29
+455 25 817 429 460 125 -1 -1 -1 -1 label : spot-1 0.25
+456 25 813 429 466 127 -1 -1 -1 -1 label : spot-1 0.24
+457 25 819 430 460 127 -1 -1 -1 -1 label : spot-1 0.33
+458 25 820 431 459 126 -1 -1 -1 -1 label : spot-1 0.34
+459 25 844 435 430 135 -1 -1 -1 -1 label : spot-1 0.22
+460 25 842 436 437 138 -1 -1 -1 -1 label : spot-1 0.22
+462 25 918 435 347 145 -1 -1 -1 -1 label : spot-1 0.10
+463 25 934 437 331 147 -1 -1 -1 -1 label : spot-1 0.12
+503 33 600 369 141 62 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.27
+504 33 601 370 143 63 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.27
+505 33 600 370 149 67 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.35
+506 33 600 370 151 68 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.36
+507 33 600 370 157 71 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.35
+508 33 600 370 159 72 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.33
+509 33 603 370 162 76 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.44
+510 33 603 370 166 78 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.44
+511 33 605 371 171 79 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.49
+512 33 605 371 175 80 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50
+513 33 603 372 185 84 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.44
+514 33 602 373 189 85 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.41
+515 33 602 374 191 88 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.48
+516 33 601 374 193 90 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.49
+517 33 603 375 197 94 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.33
+518 33 603 375 201 97 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.33
+519 33 608 375 207 103 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.45
+520 33 610 376 210 105 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.46
+521 33 609 376 224 112 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.58
+522 33 609 376 228 114 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.57
+523 33 610 376 238 121 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+524 33 610 376 242 124 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.61
+525 33 610 376 251 129 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60
+526 33 610 377 254 130 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.60
+527 33 611 377 270 134 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.38
+528 33 611 377 275 136 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.30
+529 33 613 379 288 143 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.33
+530 33 614 379 293 146 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.35
+531 33 612 378 315 159 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.19
+532 33 610 378 326 163 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.19
+537 33 612 383 355 182 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.12
+538 33 611 385 368 189 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.11
+539 33 612 386 378 195 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.23
+627 36 684 391 12 32 -1 -1 -1 -1 label : fireHydrant 0.19
+628 36 685 390 12 34 -1 -1 -1 -1 label : fireHydrant 0.20
+629 36 684 391 13 33 -1 -1 -1 -1 label : fireHydrant 0.19
+630 36 685 391 13 34 -1 -1 -1 -1 label : fireHydrant 0.17
+639 36 687 396 13 32 -1 -1 -1 -1 label : fireHydrant 0.36
+640 36 688 397 13 32 -1 -1 -1 -1 label : fireHydrant 0.37
+641 36 688 397 13 33 -1 -1 -1 -1 label : fireHydrant 0.17
+642 36 689 397 13 34 -1 -1 -1 -1 label : fireHydrant 0.17
+643 36 689 397 13 34 -1 -1 -1 -1 label : fireHydrant 0.17
+644 36 689 397 13 35 -1 -1 -1 -1 label : fireHydrant 0.17
+645 36 690 397 13 35 -1 -1 -1 -1 label : fireHydrant 0.21
+646 36 690 397 14 34 -1 -1 -1 -1 label : fireHydrant 0.21
+647 36 691 397 13 35 -1 -1 -1 -1 label : fireHydrant 0.34
+648 36 691 398 14 34 -1 -1 -1 -1 label : fireHydrant 0.35
+649 36 692 398 13 34 -1 -1 -1 -1 label : fireHydrant 0.11
+650 36 692 398 13 35 -1 -1 -1 -1 label : fireHydrant 0.11
+655 36 695 396 12 35 -1 -1 -1 -1 label : fireHydrant 0.18
+656 36 695 395 12 35 -1 -1 -1 -1 label : fireHydrant 0.17
+657 36 696 396 12 34 -1 -1 -1 -1 label : fireHydrant 0.27
+658 36 697 396 12 34 -1 -1 -1 -1 label : fireHydrant 0.27
+659 36 697 396 13 34 -1 -1 -1 -1 label : fireHydrant 0.32
+660 36 697 397 13 33 -1 -1 -1 -1 label : fireHydrant 0.31
+661 36 697 397 13 33 -1 -1 -1 -1 label : fireHydrant 0.44

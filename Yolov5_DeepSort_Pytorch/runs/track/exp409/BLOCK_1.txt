@@ -1,0 +1,1 @@
+106 5 946 619 147 26 -1 -1 -1 -1 label : invalidSpot-entrance 0.16

@@ -1,0 +1,1 @@
+378 6 893 533 220 56 -1 -1 -1 -1 label : invalidSpot-entrance 0.37

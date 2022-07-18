@@ -1,0 +1,1 @@
+67 12 328 383 58 36 -1 -1 -1 -1 label : invalidSpot-entrance 0.41

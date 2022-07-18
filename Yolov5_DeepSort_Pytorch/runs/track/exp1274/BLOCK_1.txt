@@ -1,0 +1,4 @@
+552 6 522 503 505 143 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+553 6 488 505 593 158 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.52
+554 6 613 510 486 173 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.47
+555 6 657 514 500 190 -1 -1 -1 -1 label : invalidspot-coloredCurb 0.50
